@@ -53,20 +53,6 @@
 		{
 			"Name": "OculusAudio",
 			"Enabled": true
-		},
-		{
-			"Name": "InworldAI",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/f2c8fa2e6b7d4212ba5b93cd0b897c4c"
-		},
-		{
-			"Name": "MaxQ",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/146e96d801ed4d8d930b41bfeca53733",
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Mac"
-			]
 		}
 	],
 	"TargetPlatforms": [
